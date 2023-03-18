@@ -1,6 +1,6 @@
 # Logistics-Application-repository
 
-Partial development of a complex logistics application with busines logic and REST layers.
+Partial development of a logistics application with busines logic and REST layers.
 This application is able to make Transportation plans which includes sections and milestones with related timing.
 
 - Transportaion plan contains the estimated income in case of successful delivery on time, and sections
