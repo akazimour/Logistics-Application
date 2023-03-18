@@ -14,7 +14,7 @@ The application is able to register delays in minutes means increasing the plann
 The delay time affects the estimated income reducing that with certain percentage based on 30, 60, 120 mins.
 The application uses authentication and authorization via spring security providing a POST end point where the user can log in
 using username and password. In case of correct username and password the application gives a JWT token which is valid during 10 minutes.
-Users have access to certain end points own AddressManager or TransportManager roles and authorities.
+Users have access to certain end points owning AddressManager or TransportManager roles and authorities.
 
 
 
